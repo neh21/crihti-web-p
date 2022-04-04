@@ -1,0 +1,57 @@
+/*
+To change this license header, choose license headers in project properties.
+To change thia template file, choose tools | templates
+and open the template in the editor.
+*/
+/*
+author   : neha
+*/
+body{
+
+
+
+
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+
+    background-image: url( https://www.teahub.io/photos/full/169-1692047_wallpaper-wooden-solid-dark-brown-brown-wooden-background.jpg);
+     <p1> color: display yellow;
+}
+.text_human{
+    margin-top: 40px;
+    font-family: modern antiqua;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+     color: yellow;
+     <p2> color: display: white;
+     <em style= display: white;
+
+}
+
+.alt tag{image-resolution: ;
+    height: 90px;
+    width: 319px;
+    top: -288;
+    left: 9758;
+    blend: pass through
+  
+    
+}
+.social_mediaicons{
+    text-align: center;
+    display: inline-block;
+border-bottom: none;
+margin-left: 20px;
+
+
+
+}
+
+
